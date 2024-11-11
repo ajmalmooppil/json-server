@@ -1,0 +1,29 @@
+{
+  "accidentReports": [
+   
+    {
+      "course": "NTSC",
+      "courseNo": "156",
+      "badgeNo": "A156",
+      "name": "Ajmal",
+      "seenAccident": "Yes",
+      "vehicleType": "Civil Gaadi only",
+      "state": "kerala",
+      "location": "wayanad",
+      "month": "Feb",
+      "time": "18:49",
+      "vehiclesInvolved": " a innova hit the vehicle",
+      "condition": "pit on the road",
+      "vehicleDamage": "wheel bend",
+      "injuries": "Yes",
+      "numInjured": 5,
+      "deaths": "No",
+      "numDeaths": "",
+      "cause": "Road Condition",
+      "causeDescription": "the road conditions very bad ",
+      "suggestions": "make the road good",
+      "summary": "nothing",
+      "id": 1
+    }
+  ]
+}
